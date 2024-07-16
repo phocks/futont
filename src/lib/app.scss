@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'ABC Sans Nova';
+	src: url('./fonts/abcsansnova-regular.woff2') format('woff2');
+	font-weight: 400;
+	font-style: normal;
+}
+
+html,
+body {
+	// font-family: "ABC Sans Nova", sans-serif;
+	font-family: sans-serif;
+}
