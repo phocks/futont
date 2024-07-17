@@ -10,7 +10,7 @@
 
 	.wrapper {
 		background-color: aquamarine;
-		height: 100px;
+		height: 40px;
 		display: flex;
 		align-items: center;
 	}

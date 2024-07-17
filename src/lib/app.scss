@@ -10,7 +10,6 @@ html,
 body,
 * {
 	font-family: 'ABC Sans Nova', sans-serif;
-	-webkit-font-smoothing: antialiased;
-	font-synthesis: none;
-	text-rendering: optimizeLegibility;
+	box-sizing: border-box;
+	margin: 0;
 }
